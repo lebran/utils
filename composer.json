@@ -1,0 +1,26 @@
+{
+  "name": "lebran/utils",
+  "description": "",
+  "homepage": "https://vk.com/id126790791",
+  "license": "MIT",
+  "type": "library",
+  "support": {
+    "issues": "https://github.com/lebran/utils/issues",
+    "source": "https://github.com/lebran/utils"
+  },
+  "authors": [
+    {
+      "email": "itoktor@gmail.com",
+      "name": "Roman Kritskiy",
+      "role": "Lead"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+        "Lebran\\Utils\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.5"
+  }
+}
