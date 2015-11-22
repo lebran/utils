@@ -6,7 +6,7 @@
  * Time: 23:53
  */
 
-namespace Lebran\Banana\Utils;
+namespace Lebran\Utils;
 
 class Inflector
 {
